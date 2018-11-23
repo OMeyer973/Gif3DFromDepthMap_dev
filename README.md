@@ -1,7 +1,7 @@
 # Gif3DFromDepthMap_dev
 
 
-Simple app to create gif-like wigglegram display.
+Simple processing app to create gif-like wigglegram display.
 feed the program a picture and a depth map corresponding to it, it will make it pop !
 
 
