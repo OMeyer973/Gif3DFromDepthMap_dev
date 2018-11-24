@@ -7,8 +7,9 @@ feed the program a picture and a depth map corresponding to it, it will make it 
 <img src="results/Kazuki-Takamatsu-yatzer_12.gif" height="250"> <img src="results/YUVsoft_birds.gif" height="250"> 
 ----------------
 
-##How to use ?
-one RGB and one depth map are all that is required.
+## How to use ?
+
+One RGB and one depth map are all that is required.
 Many data input images are available in the "data" folder
 
 Several parameters are configurable with a simple UI
