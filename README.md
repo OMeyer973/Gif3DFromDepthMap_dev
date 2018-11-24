@@ -1,11 +1,9 @@
 # Gif3DFromDepthMap_dev
 
-
 Simple processing app to create gif-like wigglegram display.
 feed the program a picture and a depth map corresponding to it, it will make it pop !
 
 <img src="results/Kazuki-Takamatsu-yatzer_12.gif" height="250"> <img src="results/YUVsoft_birds.gif" height="250"> 
-----------------
 
 ## How to use ?
 
